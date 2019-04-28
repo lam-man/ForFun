@@ -1,0 +1,2 @@
+# ForFun
+LeetCode In Java
